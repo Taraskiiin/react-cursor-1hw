@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e680d6624e45504b19869958792e447",
+    "revision": "9af821e5afd829997068aa5854c2072c",
     "url": "/Taraskiiin/react-cursor-1hw.git/index.html"
   },
   {
-    "revision": "013d8e4f12e9a4dbad25",
+    "revision": "45a6712d05e5ecd514c8",
     "url": "/Taraskiiin/react-cursor-1hw.git/static/css/main.9a102ae6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "013d8e4f12e9a4dbad25",
-    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/main.15ab906f.chunk.js"
+    "revision": "45a6712d05e5ecd514c8",
+    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/main.879de7a8.chunk.js"
   },
   {
     "revision": "286a79b5ddcb7bfd04b2",

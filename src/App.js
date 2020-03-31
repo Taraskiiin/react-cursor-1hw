@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Post from './post/post'
+import './post/post.css';
 import postimg from './assets/img/1hbVBwPsnlY.jpg'
 
 function App() {

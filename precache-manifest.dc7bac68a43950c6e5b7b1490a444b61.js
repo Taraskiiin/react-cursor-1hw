@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b9980ab09e6413d75e60262121ddfce",
+    "revision": "bdacfff6ddc788e27d4431aa40103a7e",
     "url": "/Taraskiiin/react-cursor-1hw.git/index.html"
   },
   {
-    "revision": "1206e9558ec388b2aa39",
+    "revision": "fc18b10adf8212bbefe4",
     "url": "/Taraskiiin/react-cursor-1hw.git/static/css/main.9a102ae6.chunk.css"
   },
   {
-    "revision": "02ff096cc71da2953c87",
-    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js"
+    "revision": "15a046cbb7d3666ad52f",
+    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/2.86b6d9b8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js.LICENSE.txt"
+    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/2.86b6d9b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1206e9558ec388b2aa39",
-    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/main.b5e903b8.chunk.js"
+    "revision": "fc18b10adf8212bbefe4",
+    "url": "/Taraskiiin/react-cursor-1hw.git/static/js/main.42e54a43.chunk.js"
   },
   {
     "revision": "286a79b5ddcb7bfd04b2",

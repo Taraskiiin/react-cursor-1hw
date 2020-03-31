@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Taraskiiin/react-cursor-1hw/static/css/main.9a102ae6.chunk.css",
-    "main.js": "/Taraskiiin/react-cursor-1hw/static/js/main.42e54a43.chunk.js",
-    "main.js.map": "/Taraskiiin/react-cursor-1hw/static/js/main.42e54a43.chunk.js.map",
-    "runtime-main.js": "/Taraskiiin/react-cursor-1hw/static/js/runtime-main.10473bbf.js",
-    "runtime-main.js.map": "/Taraskiiin/react-cursor-1hw/static/js/runtime-main.10473bbf.js.map",
-    "static/js/2.86b6d9b8.chunk.js": "/Taraskiiin/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js",
-    "static/js/2.86b6d9b8.chunk.js.map": "/Taraskiiin/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js.map",
-    "index.html": "/Taraskiiin/react-cursor-1hw/index.html",
-    "precache-manifest.4da4cc62b69167e7e5905af2ddf1989a.js": "/Taraskiiin/react-cursor-1hw/precache-manifest.4da4cc62b69167e7e5905af2ddf1989a.js",
-    "service-worker.js": "/Taraskiiin/react-cursor-1hw/service-worker.js",
-    "static/css/main.9a102ae6.chunk.css.map": "/Taraskiiin/react-cursor-1hw/static/css/main.9a102ae6.chunk.css.map",
-    "static/js/2.86b6d9b8.chunk.js.LICENSE.txt": "/Taraskiiin/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js.LICENSE.txt",
-    "static/media/1hbVBwPsnlY.jpg": "/Taraskiiin/react-cursor-1hw/static/media/1hbVBwPsnlY.71f00b92.jpg"
+    "main.css": "/react-cursor-1hw/static/css/main.9a102ae6.chunk.css",
+    "main.js": "/react-cursor-1hw/static/js/main.42e54a43.chunk.js",
+    "main.js.map": "/react-cursor-1hw/static/js/main.42e54a43.chunk.js.map",
+    "runtime-main.js": "/react-cursor-1hw/static/js/runtime-main.8620333f.js",
+    "runtime-main.js.map": "/react-cursor-1hw/static/js/runtime-main.8620333f.js.map",
+    "static/js/2.86b6d9b8.chunk.js": "/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js",
+    "static/js/2.86b6d9b8.chunk.js.map": "/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js.map",
+    "index.html": "/react-cursor-1hw/index.html",
+    "precache-manifest.9341eed31783f3a6293936abb2e7a012.js": "/react-cursor-1hw/precache-manifest.9341eed31783f3a6293936abb2e7a012.js",
+    "service-worker.js": "/react-cursor-1hw/service-worker.js",
+    "static/css/main.9a102ae6.chunk.css.map": "/react-cursor-1hw/static/css/main.9a102ae6.chunk.css.map",
+    "static/js/2.86b6d9b8.chunk.js.LICENSE.txt": "/react-cursor-1hw/static/js/2.86b6d9b8.chunk.js.LICENSE.txt",
+    "static/media/1hbVBwPsnlY.jpg": "/react-cursor-1hw/static/media/1hbVBwPsnlY.71f00b92.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.10473bbf.js",
+    "static/js/runtime-main.8620333f.js",
     "static/js/2.86b6d9b8.chunk.js",
     "static/css/main.9a102ae6.chunk.css",
     "static/js/main.42e54a43.chunk.js"

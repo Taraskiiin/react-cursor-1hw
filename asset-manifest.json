@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Taraskiiin/react-cursor-1hw.git/static/css/main.9a102ae6.chunk.css",
-    "main.js": "/Taraskiiin/react-cursor-1hw.git/static/js/main.879de7a8.chunk.js",
-    "main.js.map": "/Taraskiiin/react-cursor-1hw.git/static/js/main.879de7a8.chunk.js.map",
+    "main.js": "/Taraskiiin/react-cursor-1hw.git/static/js/main.b5e903b8.chunk.js",
+    "main.js.map": "/Taraskiiin/react-cursor-1hw.git/static/js/main.b5e903b8.chunk.js.map",
     "runtime-main.js": "/Taraskiiin/react-cursor-1hw.git/static/js/runtime-main.8eaf800e.js",
     "runtime-main.js.map": "/Taraskiiin/react-cursor-1hw.git/static/js/runtime-main.8eaf800e.js.map",
     "static/js/2.e0113e2f.chunk.js": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js",
     "static/js/2.e0113e2f.chunk.js.map": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js.map",
     "index.html": "/Taraskiiin/react-cursor-1hw.git/index.html",
-    "precache-manifest.daf2620b0d3b18ebdb76cbb03ef9f9db.js": "/Taraskiiin/react-cursor-1hw.git/precache-manifest.daf2620b0d3b18ebdb76cbb03ef9f9db.js",
+    "precache-manifest.4b410d385e9900219353fd684041bd3b.js": "/Taraskiiin/react-cursor-1hw.git/precache-manifest.4b410d385e9900219353fd684041bd3b.js",
     "service-worker.js": "/Taraskiiin/react-cursor-1hw.git/service-worker.js",
     "static/css/main.9a102ae6.chunk.css.map": "/Taraskiiin/react-cursor-1hw.git/static/css/main.9a102ae6.chunk.css.map",
     "static/js/2.e0113e2f.chunk.js.LICENSE.txt": "/Taraskiiin/react-cursor-1hw.git/static/js/2.e0113e2f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8eaf800e.js",
     "static/js/2.e0113e2f.chunk.js",
     "static/css/main.9a102ae6.chunk.css",
-    "static/js/main.879de7a8.chunk.js"
+    "static/js/main.b5e903b8.chunk.js"
   ]
 }

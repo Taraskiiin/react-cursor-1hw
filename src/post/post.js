@@ -1,5 +1,4 @@
 import React from 'react';
-import postimg from '../assets/img/1hbVBwPsnlY.jpg'
 import './post.css'
 const Post = (props) => {
     return (
@@ -14,7 +13,7 @@ const Post = (props) => {
             </div>
             <div className="post__body">
                 <p className="content">{props.content}</p>
-                <img src={postimg}  alt ="post-photo"/>
+                <img src={props.postimg}  alt ="post-photo"/>
             </div>
         </div>
     );

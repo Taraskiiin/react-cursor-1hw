@@ -10,7 +10,8 @@ function App() {
     name= "Anakin skywalker"
     nickname= "@dart_vader"
     content="Если ты будешь себя жалеть — ты никогда не победишь."
-    date= "26 февр." />
+    date= "26 февр."
+    postimg={postimg}/>
   );
 }
 export default App;
